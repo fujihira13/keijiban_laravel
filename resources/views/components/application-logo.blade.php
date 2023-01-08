@@ -1,0 +1,1 @@
+<img src="{{asset(logo//inu.png)}}" style="max-height:300px;"></img>
