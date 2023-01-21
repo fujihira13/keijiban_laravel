@@ -5,10 +5,10 @@
             <div class="flex">
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
-                    <a href="{{ route('dashboard') }}">
-                       <img src="{{asset('logo/inu.png')}}"
+                    
+                       <img src="{{asset('logo/book.png')}}"
                        style="max-height:80px">
-                    </a>
+                    
                 </div>
 
                 <!-- Navigation Links -->
